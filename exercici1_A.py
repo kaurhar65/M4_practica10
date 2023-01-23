@@ -1,3 +1,3 @@
 def anys(a):
     return 2023-a
-print (anys(2001))
+""" funció anys, que demana any de naixement i retorna l'edat de l'usuari"""
